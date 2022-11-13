@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="greenimpostorbetter.png"><SubTexture name="greenimpostorbetter idle0000" x="0" y="0" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter idle0001" x="1470" y="0" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter idle0002" x="2940" y="0" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter idle0003" x="4410" y="0" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter idle0004" x="5880" y="0" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter idle0005" x="7350" y="0" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter idle0006" x="0" y="847" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing down0000" x="1470" y="847" width="1454" height="797" frameX="0" frameY="0" frameWidth="1454" frameHeight="797" />
+<SubTexture name="greenimpostorbetter sing down0001" x="2924" y="847" width="1454" height="797" frameX="0" frameY="0" frameWidth="1454" frameHeight="797" />
+<SubTexture name="greenimpostorbetter sing down0002" x="4378" y="847" width="1454" height="797" frameX="0" frameY="0" frameWidth="1454" frameHeight="797" />
+<SubTexture name="greenimpostorbetter sing down0003" x="5832" y="847" width="1454" height="797" frameX="0" frameY="0" frameWidth="1454" frameHeight="797" />
+<SubTexture name="greenimpostorbetter sing down0004" x="7286" y="847" width="1454" height="797" frameX="0" frameY="0" frameWidth="1454" frameHeight="797" />
+<SubTexture name="greenimpostorbetter sing down0005" x="0" y="1694" width="1454" height="797" frameX="0" frameY="0" frameWidth="1454" frameHeight="797" />
+<SubTexture name="greenimpostorbetter sing left0000" x="1454" y="1694" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing left0001" x="2924" y="1694" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing left0002" x="4394" y="1694" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing left0003" x="5864" y="1694" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing left0004" x="7334" y="1694" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing left0005" x="0" y="2541" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing left0006" x="1470" y="2541" width="1470" height="847" frameX="0" frameY="0" frameWidth="1470" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing right0000" x="2940" y="2541" width="1488" height="847" frameX="0" frameY="0" frameWidth="1488" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing right0001" x="4428" y="2541" width="1488" height="847" frameX="0" frameY="0" frameWidth="1488" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing right0002" x="5916" y="2541" width="1488" height="847" frameX="0" frameY="0" frameWidth="1488" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing right0003" x="7404" y="2541" width="1488" height="847" frameX="0" frameY="0" frameWidth="1488" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing right0004" x="0" y="3388" width="1488" height="847" frameX="0" frameY="0" frameWidth="1488" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing right0005" x="1488" y="3388" width="1488" height="847" frameX="0" frameY="0" frameWidth="1488" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing right0006" x="2976" y="3388" width="1488" height="847" frameX="0" frameY="0" frameWidth="1488" frameHeight="847" />
+<SubTexture name="greenimpostorbetter sing up0000" x="4464" y="3388" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0001" x="6061" y="3388" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0002" x="7658" y="3388" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0003" x="0" y="4328" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0004" x="1597" y="4328" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0005" x="3194" y="4328" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0006" x="4791" y="4328" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0007" x="6388" y="4328" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0008" x="7985" y="4328" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0009" x="0" y="5268" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0010" x="1597" y="5268" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0011" x="3194" y="5268" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0012" x="4791" y="5268" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0013" x="6388" y="5268" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0014" x="7985" y="5268" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+<SubTexture name="greenimpostorbetter sing up0015" x="0" y="6208" width="1597" height="940" frameX="0" frameY="0" frameWidth="1597" frameHeight="940" />
+</TextureAtlas>
