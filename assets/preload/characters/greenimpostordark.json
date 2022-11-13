@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				772,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "impostorgreen sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				610,
+				-72
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "impostorgreen sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				754,
+				-66
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "impostorgreen sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				594,
+				-61
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "impostorgreen sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				760,
+				-59
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "impostorgreen idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/impostorgreen",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "greenimpo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-530,
+		230
+	],
+	"sing_duration": 3.1,
+	"scale": 0.7
+}
